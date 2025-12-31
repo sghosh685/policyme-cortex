@@ -238,8 +238,8 @@ MIT License - see [LICENSE](LICENSE) for details
 
 **Saikat Ghosh**
 - GitHub: [@sghosh685](https://github.com/sghosh685)
-- Portfolio: [Your Portfolio URL]
-- LinkedIn: [Your LinkedIn]
+- Portfolio: [[Your Portfolio URL]](https://github.com/sghosh685)
+- LinkedIn: [[Your LinkedIn]](https://linkedin.com/in/saikat-ghosh-685)
 
 ## 🙏 Acknowledgments
 
